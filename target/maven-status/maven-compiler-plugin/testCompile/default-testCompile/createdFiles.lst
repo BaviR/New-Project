@@ -1,0 +1,7 @@
+com\adactin\config\Config_Reader.class
+com\adactin\config\File_Reader_Manager.class
+com\adactin\runner\Runner.class
+com\adactin\stepdefinition\Hooks.class
+com\adactin\runner\Orange.class
+com\adactin\config\Page_Object_Manager.class
+com\adactin\stepdefinition\Stepdefinition.class
